@@ -1,0 +1,14 @@
+Script started on 2023-04-16 18:17:37-07:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="79" LINES="29"]
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop[00m$ cd ECE373
+[?2004l
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ gcc -g -i [K[Ko CtF[KoT[KF CtoF.c
+[?2004l
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ ./CtoF
+[?2004l
+Enter temperature in Celsius: 0
+0.00 Celsius is 32.00 Fahrenheit.
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ [?2004l
+
+exit
+
+Script done on 2023-04-16 18:18:08-07:00 [COMMAND_EXIT_CODE="0"]

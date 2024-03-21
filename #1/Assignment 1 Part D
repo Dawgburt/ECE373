@@ -1,0 +1,26 @@
+Script started on 2023-04-19 14:43:21-07:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="80" LINES="24"]
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ sus[Kdo insmod hello_kernel [K.ko
+[?2004l
+[sudo] password for pnevins: 
+insmod: ERROR: could not insert module hello_kernel.ko: File exists
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ sudo rmmod hello.[K_kernel.ko
+[?2004l
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ lsmod | grep hello
+[?2004l
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ sudio=[K[K[Koi [K[K insmod hello_+[Kkerna[Kel.ko
+[?2004l
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ sudo dsme[K[Kmeg
+[?2004l
+sudo: dsmeg: command not found
+
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ sudo sm[K[Kdmesg
+[?2004l
+
+
+[32m[ 1964.529515] Hello, kernel
+[32m[ 2804.871497] Goodbye, kernel
+[?2004h]0;pnevins@Linux-Unbuntu-22: ~/Desktop/ECE373[01;32mpnevins@Linux-Unbuntu-22[00m:[01;34m~/Desktop/ECE373[00m$ exit
+[?2004l
+exit
+
+Script done on 2023-04-19 14:46:01-07:00 [COMMAND_EXIT_CODE="0"]
